@@ -1,4 +1,7 @@
 # 自用的黑苹果配置
+
+更新日期：20200526
+
 配置表：
 1. AMD Ryzen R5-3600X
 2. MSI B450M MORTAR MAX
